@@ -1,0 +1,6 @@
+[submodule "raylib"]
+	path = raylib
+	url = git@github.com:raysan5/raylib.git
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
